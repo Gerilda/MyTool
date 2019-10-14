@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/CLionProjects/Diploma/MyTool/cpp/matrix_multiplication/matrix_multiplication.cpp
+vector
+-
+iostream
+-
+algorithm
+-
+chrono
+-
+

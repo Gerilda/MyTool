@@ -1,0 +1,9 @@
+C:/CLionProjects/Diploma/MyTool/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/CLionProjects/Diploma/MyTool/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/CLionProjects/Diploma/MyTool/cmake-build-debug/cpp/CMakeFiles/edit_cache.dir
+C:/CLionProjects/Diploma/MyTool/cmake-build-debug/cpp/CMakeFiles/rebuild_cache.dir
+C:/CLionProjects/Diploma/MyTool/cmake-build-debug/cpp/matrix_multiplication/CMakeFiles/matmul.dir
+C:/CLionProjects/Diploma/MyTool/cmake-build-debug/cpp/matrix_multiplication/CMakeFiles/edit_cache.dir
+C:/CLionProjects/Diploma/MyTool/cmake-build-debug/cpp/matrix_multiplication/CMakeFiles/rebuild_cache.dir
+C:/CLionProjects/Diploma/MyTool/cmake-build-debug/sycl/CMakeFiles/edit_cache.dir
+C:/CLionProjects/Diploma/MyTool/cmake-build-debug/sycl/CMakeFiles/rebuild_cache.dir
